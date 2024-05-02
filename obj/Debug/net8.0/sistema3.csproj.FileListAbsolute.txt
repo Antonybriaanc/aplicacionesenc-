@@ -1,0 +1,14 @@
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\bin\Debug\net8.0\sistema3.exe
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\bin\Debug\net8.0\sistema3.deps.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\bin\Debug\net8.0\sistema3.runtimeconfig.json
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\bin\Debug\net8.0\sistema3.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\bin\Debug\net8.0\sistema3.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.AssemblyInfoInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.AssemblyInfo.cs
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.csproj.CoreCompileInputs.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\refint\sistema3.dll
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.pdb
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\sistema3.genruntimeconfig.cache
+C:\Users\ACASTILLO\Documents\Universidad\Materias\Programacion 1\Sistema3\sistema3\obj\Debug\net8.0\ref\sistema3.dll
